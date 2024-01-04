@@ -11,7 +11,6 @@ export function App() {
 				flexDirection="column"
 				gap={2}
 				py={5}
-				px={4}
 			>
 				<Typography
 					variant="h4"

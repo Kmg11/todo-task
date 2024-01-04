@@ -25,5 +25,6 @@ Save tasks in local storage | Handle completed functionality
 
 ==================================================
 
-- Handle filters
-- Handle split tasks in sections (completed and pending)
+Create TasksFilter component | Handle filter tasks functionality
+
+==================================================
