@@ -28,3 +28,7 @@ Save tasks in local storage | Handle completed functionality
 Create TasksFilter component | Handle filter tasks functionality
 
 ==================================================
+
+Type README.md file
+
+==================================================
