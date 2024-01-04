@@ -16,7 +16,14 @@ Create ToDo components | Handle create, update and delete tasks functionality
 
 ==================================================
 
+Save tasks in local storage | Handle completed functionality
+
 - Save tasks in local storage
-- Handle task completed
+- Save tasks index in local storage
+- Add Checkbox to Task component
+- Handle completed functionality
+
+==================================================
+
 - Handle filters
 - Handle split tasks in sections (completed and pending)

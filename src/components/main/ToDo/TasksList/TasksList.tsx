@@ -46,6 +46,7 @@ export const TasksList = ({
 					task={task}
 					deleteTask={deleteTask}
 					openUpdateTaskModel={openUpdateTaskModel}
+					updateTask={updateTask}
 				/>
 			))}
 

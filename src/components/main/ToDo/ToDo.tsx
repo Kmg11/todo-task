@@ -4,7 +4,7 @@ import { useToDo } from "./useTodo";
 import { Box } from "@mui/material";
 
 export const ToDo = () => {
-	const { tasks, addTask, updateTask, deleteTask } = useToDo();
+	const { tasks, createTask, updateTask, deleteTask } = useToDo();
 
 	return (
 		<Box
@@ -14,7 +14,7 @@ export const ToDo = () => {
 			flexDirection="column"
 			gap={2}
 		>
-			<CreateOrUpdateTaskForm createTask={addTask} type="create" />
+			<CreateOrUpdateTaskForm createTask={createTask} type="create" />
 
 			<TasksList
 				tasks={tasks}
