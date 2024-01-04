@@ -3,3 +3,20 @@
 Setup Project | Setup material ui
 
 ==================================================
+
+Create ToDo components | Handle create, update and delete tasks functionality
+
+- Create ToDo component
+- Create CreateOrUpdateTaskForm component
+- Create TaskList component
+- Create Task component
+- Handle create task functionality
+- Handle update task functionality
+- Handle delete task functionality
+
+==================================================
+
+- Save tasks in local storage
+- Handle task completed
+- Handle filters
+- Handle split tasks in sections (completed and pending)
